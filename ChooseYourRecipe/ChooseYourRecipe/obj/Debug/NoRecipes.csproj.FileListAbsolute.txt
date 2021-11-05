@@ -1,0 +1,6 @@
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\bin\Debug\NoRecipes.dll
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\bin\Debug\NoRecipes.pdb
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Debug\NoRecipes.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Debug\NoRecipes.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Debug\NoRecipes.dll
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Debug\NoRecipes.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseYourRecipe", "ChooseYourRecipe.csproj", "{48BF8647-E97C-46E6-8CCC-FB02355B62E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BF8647-E97C-46E6-8CCC-FB02355B62E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BF8647-E97C-46E6-8CCC-FB02355B62E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BF8647-E97C-46E6-8CCC-FB02355B62E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BF8647-E97C-46E6-8CCC-FB02355B62E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A0F1ED7-F6F0-4D19-977D-81F822CAB8EE}
+	EndGlobalSection
+EndGlobal

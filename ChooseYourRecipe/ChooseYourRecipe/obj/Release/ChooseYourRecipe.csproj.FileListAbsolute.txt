@@ -1,0 +1,8 @@
+D:\Games\Steam\steamapps\common\RimWorld\Mods\NoRecipes\Assemblies\ChooseYourRecipe.dll
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Release\ChooseYourRecipe.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Release\ChooseYourRecipe.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Release\ChooseYourRecipe.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\ChooseYourRecipe\Assemblies\ChooseYourRecipe.dll
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\obj\Release\ChooseYourRecipe.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\obj\Release\ChooseYourRecipe.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\obj\Release\ChooseYourRecipe.dll

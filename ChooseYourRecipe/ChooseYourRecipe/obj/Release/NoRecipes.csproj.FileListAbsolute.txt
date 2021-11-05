@@ -1,0 +1,4 @@
+D:\Games\Steam\steamapps\common\RimWorld\Mods\NoRecipes\Assemblies\NoRecipes.dll
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Release\NoRecipes.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Release\NoRecipes.dll
+D:\VisualStudioRepos\RimworldMods\NoRecipes\NoRecipes\obj\Release\NoRecipes.csproj.AssemblyReference.cache

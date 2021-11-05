@@ -1,0 +1,6 @@
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\bin\Debug\ChooseYourRecipe.dll
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\bin\Debug\ChooseYourRecipe.pdb
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\obj\Debug\ChooseYourRecipe.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\obj\Debug\ChooseYourRecipe.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\obj\Debug\ChooseYourRecipe.dll
+D:\VisualStudioRepos\RimworldMods\ChooseYourRecipe\ChooseYourRecipe\obj\Debug\ChooseYourRecipe.pdb
